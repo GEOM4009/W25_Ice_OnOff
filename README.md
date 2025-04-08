@@ -56,17 +56,27 @@ Before using these tools, ensure that:
   
 * You have a Google account and a registered [Google Earth Earth Engine project](https://console.cloud.google.com/earth-engine/welcome?pli=1&invt=AbuNfA)
 
----
-### Step-by-step instructions
+#### Step-by-step instructions
 1. Open the command-line interface and select the directory where the .py files are stored.
 ```
 cd [file path]
 ```
-*     cd &rarr; "change directory"
-*     Notice the prompt update to the selected directory
+* cd &rarr; "change directory"
+* Notice the prompt update to the selected directory
 
+2. Activate your environment:
+```
+conda activate [environment name]
+```
+* Notice the prompt update from (base) to your envrionment. This means it worked!
 
-  
+3. Run the Ice On/Off analysis tool
+```
+python IceOnOff_L9.py
+```
+* If needed, replace IceOnOff_L9 with the proper file name
+
+From here, the tool will provide prompts for the necessary input
 
 ---
 ## Troubleshooting / FAQ
