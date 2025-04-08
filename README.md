@@ -34,9 +34,8 @@ cd [path to your directory]
 5. Create an environment using the .yml file. To do this, run the following:
 ```
 conda env create --file IceOnOff_ORK.yml
-
-# If needed, replace 'IceOnOff_ORK' with appropriate name
 ```
+* 	If needed, replace 'IceOnOff_ORK' with appropriate name
 Note: The IceOnOff_ORK environment is not explicitly required. Other Environments will work, provided they contain the following packages: 
 * earthengine-api
 
