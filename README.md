@@ -56,7 +56,7 @@ Before using these tools, ensure that:
   
 * You have a Google account and a registered [Google Earth Earth Engine project](https://console.cloud.google.com/earth-engine/welcome?pli=1&invt=AbuNfA)
 
-⋯⋯⋯
+<hr style="height:0.5px; border:none; background-color:#ccc;" />
 
 1. Open the command-line interface and select the directory where the .py files are stored.
 ```
