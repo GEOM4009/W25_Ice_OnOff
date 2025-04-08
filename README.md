@@ -45,7 +45,7 @@ Note: The IceOnOff_ORK environment is not explicitly required. Other Environment
 * matplotlib
 
 ---
-## Using the tools 
+## Tool Setup & Usage
 
 Before using these tools, ensure that: 
 * Anaconda is installed on your computer
@@ -56,7 +56,8 @@ Before using these tools, ensure that:
   
 * You have a Google account and a registered [Google Earth Earth Engine project](https://console.cloud.google.com/earth-engine/welcome?pli=1&invt=AbuNfA)
 
----
+⋯⋯⋯
+
 1. Open the command-line interface and select the directory where the .py files are stored.
 ```
 cd [file path]
