@@ -56,12 +56,24 @@ Before using these tools, ensure that:
   
 * You have a Google account and a registered [Google Earth Earth Engine project](https://console.cloud.google.com/earth-engine/welcome?pli=1&invt=AbuNfA)
 
+
+1. Open the command-line interface and select the directory where the .py files are stored.
+```
+cd [file path]
+```
+	* cd &rarr; "change directory"
+	* Notice the prompt update to the selected directory
+
+
+  
+
 ---
 ## Troubleshooting / FAQ
 
 **Q:** “Where should I save the scripts?”
 *	You can save them anywhere, but it’s recommended to use a simple path with no special characters. 
 *	For example, “C: /OttawaRiverkeeper/IceOnOff”
+
 
 **Q:** “ModuleNotFoundError: No module named [module name]”
 *	This error means the required packages are not installed in the current environment. 
@@ -79,14 +91,17 @@ conda install [package name]
 # Make sure the right environment is activated
 ```
 
+
 **Q:** “python can’t open file [file path]: [Errno 2] No such file or directory”
 *	This error means python can’t find the file you are trying to access. 
 *	Check the file name for any typos.
 *	Make sure you’re in the correct directory.
 *	You can type “dir” (windows) or “ls” (Mac/Linux) in the command line to list files in the current directory.
 
+
 **Q:** “How do I know the HYDROUID of the lake I want to analyze?”
 *	When prompted you can open the [interactive map](https://ben-schellenberg.github.io/OttawaRiverWatershed/ORW_Feature_Names.html) (also linked in the tool) to browse the IDs of each waterbody. 
+
 
 **Q:** “No imagery found for this date range”
 * This can happen for several reasons: 
