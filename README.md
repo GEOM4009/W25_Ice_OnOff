@@ -53,3 +53,5 @@ Q: “No imagery found for this date range”
 	 * There is no satellite pass over for the waterbody between selected dates.
 * Try widening the date range or selecting a different waterbody. 
 
+---
+## Acknowledgments
