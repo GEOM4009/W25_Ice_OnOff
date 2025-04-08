@@ -35,8 +35,9 @@ cd [path to your directory]
 ```
 conda env create --file IceOnOff_ORK.yml
 ```
-* 	If needed, replace 'IceOnOff_ORK' with appropriate name
-Note: The IceOnOff_ORK environment is not explicitly required. Other Environments will work, provided they contain the following packages: 
+* If needed, replace 'IceOnOff_ORK' with appropriate name
+  
+**Note:** The IceOnOff_ORK environment is not explicitly required. Other Environments will work, provided they contain the following packages: 
 * earthengine-api
 
 * pandas
