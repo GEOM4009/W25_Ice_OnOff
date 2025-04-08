@@ -78,11 +78,10 @@ python IceOnOff_L9.py
 
 4. Alternative execution
 	* This method bypasses prompts, allowing for direct parameter input
-	* Use the same input as step 3, followed by the desired parameters.
-```
-python IceOnOff_L9.py [HYDROUID] [Start Date] --end_date [End Date]
-```
-\
+	* Use the same input as step 3, followed by the desired parameters:
+	```
+	python IceOnOff_L9.py [HYDROUID] [Start Date] --end_date [End Date]
+	```
 	* Make sure to include “--end_date” before entering the end date
  	* This approach will still prompt you to enter your earth engine project
 
