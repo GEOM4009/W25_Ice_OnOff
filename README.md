@@ -77,6 +77,7 @@ conda install [package name]
   	 * Too much cloud cover over the selected waterbody between selected dates.
    	 * Imagery does not fully cover the waterbody between selected dates.
 	 * There is no satellite pass over for the waterbody between selected dates.
+    
 * Try widening the date range or selecting a different waterbody. 
 
 ---
