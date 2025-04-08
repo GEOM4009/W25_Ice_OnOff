@@ -26,6 +26,7 @@ Using Google Earth Engine, the tools leverage both Landsat 9 and Sentinel-1 data
 ---
 ## Troubleshooting / FAQ
 Troubleshooting/FAQ
+
 Q: “Where should I save the scripts?”
 *	You can save them anywhere, but it’s recommended to use a simple path with no special characters. 
 *	For example, “C: /OttawaRiverkeeper/IceOnOff”
@@ -47,9 +48,9 @@ Q: “How do I know the HYDROUID of the lake I want to analyze?”
 *	Map: benschellenberg.github.io/OttawaRiverWatershed/ORW_Feature_Names.html
 
 Q: “No imagery found for this date range”
-*	This can happen for several reasons: 
-   * Too much cloud cover over the selected waterbody between selected dates.
-   * Imagery does not fully cover the waterbody between selected dates.
+* This can happen for several reasons: 
+  	 * Too much cloud cover over the selected waterbody between selected dates.
+   	 * Imagery does not fully cover the waterbody between selected dates.
 	 * There is no satellite pass over for the waterbody between selected dates.
 * Try widening the date range or selecting a different waterbody. 
 
