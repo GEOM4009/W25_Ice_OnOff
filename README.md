@@ -55,9 +55,7 @@ Before using these tools, ensure that:
 * The Ice On/Off analysis tool is saved on your computer
   
 * You have a Google account and a registered [Google Earth Earth Engine project](https://console.cloud.google.com/earth-engine/welcome?pli=1&invt=AbuNfA)
-
-<hr style="height:0.1px; border:none; background-color:#ccc;" />
-
+__
 1. Open the command-line interface and select the directory where the .py files are stored.
 ```
 cd [file path]
