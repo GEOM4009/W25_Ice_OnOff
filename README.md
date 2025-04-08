@@ -21,12 +21,22 @@ Using Google Earth Engine, these tools leverage both Landsat 9 and Sentinel-1 da
 ---
 ## Environment Setup
 1. Save the IceOnOff_ORK.yml file to an accessible directory
+
 2. Download [Anaconda] (https://www.anaconda.com/download)
+   
 3. Open the Anaconda Prompt (included in Anaconda installation)
-4. Navigate to the file containing IceOnOff_ORK.yml
+   
+4. Navigate to the file containing IceOnOff_ORK.yml. To do this, run the following:
 ```
 cd [path to your directory]
 ```
+5. Create an environment using the .yml file. To do this, run the following:
+```
+conda env create --file IceOnOff_ORK.yml
+
+# If needed, replace 'IceOnOff_ORK' with appropriate name
+```
+
 ---
 ## Using the tools 
 
