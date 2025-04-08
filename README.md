@@ -76,6 +76,8 @@ python IceOnOff_L9.py
 ```
 * If needed, replace IceOnOff_L9 with the proper file name
 
+From here, the tool will provide prompts for the necessary input
+
 4. Alternative execution
    
 Use the same input as step 3, followed by the desired parameters:
@@ -85,8 +87,6 @@ python IceOnOff_L9.py [HYDROUID] [Start Date] --end_date [End Date]
 * This method bypasses prompts, allowing for direct parameter input
 * Make sure to include “--end_date” before entering the end date
 * This approach will still prompt you to enter your earth engine project
-
-From here, the tool will provide prompts for the necessary input
 
 ---
 ## Troubleshooting / FAQ
