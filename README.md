@@ -50,8 +50,18 @@ Q: “Where should I save the scripts?”
 Q: “ModuleNotFoundError: No module named [module name]”
 *	This error means the required packages are not installed in the current environment. 
 *	Ensure that the correct environment has been activated. 
-*	To verify which packages are installed in the current environment type “conda list” in the command-line. 
-*	To install packages, type “conda install [package name]”
+*	To verify which packages are installed in the current environment run: 
+```
+conda list
+
+# Make sure you're in the environment you want to check
+```
+*	To install packages, run:
+```
+conda install [package name]
+
+# Make sure the right environment is activated
+```
 
 Q: “python can’t open file [file path]: [Errno 2] No such file or directory”
 *	This error means python can’t find the file you are trying to access. 
