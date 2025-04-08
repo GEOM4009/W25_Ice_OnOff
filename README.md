@@ -70,8 +70,7 @@ conda install [package name]
 *	You can type “dir” (windows) or “ls” (Mac/Linux) in the command line to list files in the current directory.
 
 **Q:** “How do I know the HYDROUID of the lake I want to analyze?”
-*	When prompted you can open the interactive map (linked in the tool) to browse the IDs of each waterbody. 
-*	Map: benschellenberg.github.io/OttawaRiverWatershed/ORW_Feature_Names.html
+*	When prompted you can open the [interactive map](benschellenberg.github.io/OttawaRiverWatershed/ORW_Feature_Names.html) (also linked in the tool) to browse the IDs of each waterbody. 
 
 **Q:** “No imagery found for this date range”
 * This can happen for several reasons: 
