@@ -56,7 +56,7 @@ Before using these tools, ensure that:
   
 * You have a Google account and a registered [Google Earth Earth Engine project](https://console.cloud.google.com/earth-engine/welcome?pli=1&invt=AbuNfA)
 
-#### Step-by-step instructions
+### Step-by-step instructions
 1. Open the command-line interface and select the directory where the .py files are stored.
 ```
 cd [file path]
@@ -75,6 +75,16 @@ conda activate [environment name]
 python IceOnOff_L9.py
 ```
 * If needed, replace IceOnOff_L9 with the proper file name
+
+4. Alternative execution
+	* This method bypasses prompts, allowing for direct parameter input
+	* Use the same input as step 3, followed by the desired parameters.
+```
+python IceOnOff_L9.py [HYDROUID] [Start Date] --end_date [End Date]
+```
+\
+	* Make sure to include “--end_date” before entering the end date
+ 	* This approach will still prompt you to enter your earth engine project
 
 From here, the tool will provide prompts for the necessary input
 
