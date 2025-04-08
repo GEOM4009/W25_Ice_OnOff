@@ -25,7 +25,6 @@ Using Google Earth Engine, the tools leverage both Landsat 9 and Sentinel-1 data
 
 ---
 ## Troubleshooting / FAQ
-Troubleshooting/FAQ
 
 Q: “Where should I save the scripts?”
 *	You can save them anywhere, but it’s recommended to use a simple path with no special characters. 
