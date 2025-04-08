@@ -89,6 +89,10 @@ python IceOnOff_L9.py [HYDROUID] [Start Date] --end_date [End Date]
 * This approach will still prompt you to enter your earth engine project
 
 ---
+## Script Documentation
+* See the [Sphinx-generated documentation](https://ben-schellenberg.github.io/Ice_OnOff_Documentation/) for a description of each function used in the Ice On/Off analysis tools.
+
+---
 ## Troubleshooting / FAQ
 
 **Q:** “Where should I save the scripts?”
