@@ -13,12 +13,19 @@ Using Google Earth Engine, these tools leverage both Landsat 9 and Sentinel-1 da
 ---
 ## Repository Contents
 * IceOnOff_L9.py &rarr; Landsat 9 ice on/off analysis tool
+  
 * IceOnOff_SAR.py &rarr; Sentinel 1 ice on/off analysis tool
+  
 * IceOnOff_ORK.yml &rarr; python environment containing the required packages to run these tools
+  
 * IceOnOff_ProjectReport.pdf &rarr; Full project report
+  
 * IceOnOff_Presentation.pdf &rarr; A copy of the project presentation
+  
 * demo &rarr; Folder containing demo inputs and outputs, including a command line screenshot, output graph, and a sample CSV
+  
 * LICENSE &rarr; MIT license covering the use and distribution of this project
+  
 * README.md &rarr; Overview of the Ice On/Off analysis tools and usage instructions (you’re reading this now)
 
 ---
