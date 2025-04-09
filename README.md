@@ -21,6 +21,14 @@ Using Google Earth Engine, these tools leverage both Landsat 9 and Sentinel-1 da
 * README.md &rarr; Overview of the Ice On/Off analysis tools and usage instructions (you’re reading this now)
 
 ---
+## Hardware Requirements
+Since most of the image processing in these tools is handled on Google Earth Engine’s servers, they do not require intensive local memory. However, to ensure smooth performance when plotting results or managing CSV files, it’s recommended to use a computer with at least 8 GB of RAM.
+
+Internet access is required for all Earth Engine operations.
+
+**Note:** Processing speed may vary depending the complexity of the analysis (e.g., large waterbodies and/or wide date ranges), Google’s server load, and your internet connection.
+
+---
 ## Environment Setup
 1. Save the IceOnOff_ORK.yml file to an accessible directory
 
