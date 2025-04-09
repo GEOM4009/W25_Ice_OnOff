@@ -146,7 +146,8 @@ conda install [package name]
 * Try widening the date range or selecting a different waterbody.
   
 ---
-For a more detailed overview of this project, see the included IceOnOff_ProjectReport.pdf
+### For a more detailed overview of this project, see the included IceOnOff_ProjectReport.pdf
+
 ---
 ## Acknowledgments
 
