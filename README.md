@@ -143,8 +143,10 @@ conda install [package name]
    	 * Imagery does not fully cover the waterbody between selected dates.
 	 * There is no satellite pass over for the waterbody between selected dates.
     
-* Try widening the date range or selecting a different waterbody. 
-
+* Try widening the date range or selecting a different waterbody.
+  
+---
+For a more detailed overview of this project, see the included IceOnOff_ProjectReport.pdf
 ---
 ## Acknowledgments
 
