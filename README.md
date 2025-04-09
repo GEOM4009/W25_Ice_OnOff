@@ -147,3 +147,7 @@ conda install [package name]
 
 ---
 ## Acknowledgments
+
+We thank Dr. Derek Mueller for his ongoing support throughout this project, including feedback on intermediate deliverables and valuable insights during team discussions.
+
+We would also like to acknowledge Liam Nguyen, who initially proposed this project and provided suggestions that helped ensure our efforts aligned with the project’s overarching goals.
