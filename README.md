@@ -1,7 +1,7 @@
 # Automated Ice On/Off monitoring
 ---
 
-This tool is designed to automate the detection of ice on/off dates for waterbodies in the Ottawa River Watershed. Ice on refers to the state of total ice coverage, while ice off indicates open, ice free waters. 
+This tool is designed to automate the detection of ice on/off dates for waterbodies in the Ottawa River Watershed. Ice on refers to the state of total ice coverage, while ice off indicates open, ice-free waters. 
 Using Google Earth Engine, these tools leverage both Landsat 9 and Sentinel-1 data to estimate ice coverage within a user-defined waterbody and date range. The Landsat-based workflow uses a Normalized Difference Snow Index (NDSI) to detect ice, while the Sentinel-1 workflow applies speckle filtering and a dynamic threshold to extract ice cover from radar backscatter.
 
 ---
@@ -59,7 +59,7 @@ conda env create --file IceOnOff_ORK.yml
 Before using these tools, ensure that: 
 * Anaconda is installed on your computer
 
-* You have access to an approprate python environment
+* You have access to an appropriate python environment
 
 * The Ice On/Off analysis tool is saved on your computer
   
@@ -77,7 +77,7 @@ cd [file path]
 ```
 conda activate [environment name]
 ```
-* Notice the prompt update from (base) to your envrionment. This means it worked!
+* Notice the prompt update from (base) to your environment. This means it worked!
 
 3. Run the Ice On/Off analysis tool
 ```
@@ -122,7 +122,7 @@ conda list
 ```
 conda install [package name]
 
-# Make sure the right environment is activated
+# Make sure the correct environment is activated
 ```
 
 
